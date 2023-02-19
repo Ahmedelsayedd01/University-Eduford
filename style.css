@@ -253,16 +253,12 @@ h3 {
   margin-top: 20px;
   font-weight: 600;
 }
-.icons {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 10%;
+.icons  i{
+  padding: 0 30px 0 30px;
   color: #f44336;
   cursor: pointer;
 }
-.footer p i,
-span {
+.footer span {
   color: #f44336;
 } /* responsive mobile */
 @media (max-width: 700px) {
